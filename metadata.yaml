@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39609'
     url: http://www.gutenberg.org/2009/agents/39609
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39943#Delacroix
 gutenberg_bookshelf: Masterpieces in Colour
 gutenberg_issued: '2012-06-07'
 gutenberg_type: Text
